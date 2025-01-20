@@ -10,3 +10,5 @@
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akshayonly_)
 
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/akshayonly/)
+
+[<img align="left" alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00CC00?style=for-the-badge&logo=letterboxd&logoColor=white" />](https://letterboxd.com/akshayonly/)
