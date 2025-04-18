@@ -9,19 +9,9 @@
 
 ---
 
-# 🛠️ Tech Stack / Specialties
-
-- **Languages:** Python, R, Bash, SQL  
-- **Bioinformatics Tools:** HMMER, PyMol, Gromacs, Seurat, Scanpy  
-- **NGS Analysis:** RNA-Seq, single-cell RNA-Seq (scRNA-Seq), WGS  
-- **Workflow Management:** Nextflow (learning), Snakemake (learning)  
-- **Platforms:** Linux/UNIX HPC, AWS (beginner)  
-- **Visualization:** Matplotlib, Seaborn, ggplot2, PyMol  
-
----
-
 ### 🔗 Let's Connect:
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/akshayonly/](https://www.linkedin.com/in/akshay-shirsath/)
+[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
+(https://www.linkedin.com/in/akshay-shirsath/)
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akshayonly_)
 
