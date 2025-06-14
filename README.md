@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Akshay — Bioinformatician from India
 
 - 🧬 I specialize in **comparative genomics**, **structural bioinformatics**, and **machine learning applications in biology**.
 - 🔍 I'm passionate about **decoding biological complexity** through data-driven approaches and building **scalable bioinformatics workflows**.
