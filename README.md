@@ -9,10 +9,14 @@
 ---
 
 ### Social
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshayonly/)
+[<img align="left" alt="Medium" src="https://img.shields.io/badge/medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://akshayonly.medium.com/)
 
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akshayonly_)
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akshayonly/)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/akshayonly/)
+[<img align="left" alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/akshayonly_)
 
-[<img align="left" alt="Letterboxd" src="https://img.shields.io/badge/Letterboxd-00CC00?style=for-the-badge&logo=letterboxd&logoColor=white" />](https://letterboxd.com/akshayonly/)
+[<img align="left" alt="Instagram" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/akshayonly/)
+
+[<img align="left" alt="Letterboxd" src="https://img.shields.io/badge/letterboxd-00CC00?style=for-the-badge&logo=letterboxd&logoColor=white" />](https://letterboxd.com/akshayonly/)
+
+
